@@ -1,0 +1,12 @@
+C:\CMPE2800\Socket_LAB\Client\bin\Debug\Client.exe.config
+C:\CMPE2800\Socket_LAB\Client\bin\Debug\Client.exe
+C:\CMPE2800\Socket_LAB\Client\bin\Debug\Client.pdb
+C:\CMPE2800\Socket_LAB\Client\obj\Debug\Client.Properties.Resources.resources
+C:\CMPE2800\Socket_LAB\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\CMPE2800\Socket_LAB\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\CMPE2800\Socket_LAB\Client\obj\Debug\Client.exe
+C:\CMPE2800\Socket_LAB\Client\obj\Debug\Client.pdb
+C:\CMPE2800\Socket_LAB\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\CMPE2800\Socket_LAB\Client\obj\Debug\Client.TestDialog.resources
+C:\CMPE2800\Socket_LAB\Client\obj\Debug\Client.DlgConnect.resources
+C:\CMPE2800\Socket_LAB\Client\bin\Debug\CMPE2800_SocketGuess_Frames.dll

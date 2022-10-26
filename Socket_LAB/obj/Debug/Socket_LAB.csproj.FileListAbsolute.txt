@@ -1,0 +1,11 @@
+C:\CMPE2800\Socket_LAB\Socket_LAB\bin\Debug\Socket_LAB.exe.config
+C:\CMPE2800\Socket_LAB\Socket_LAB\bin\Debug\Socket_LAB.exe
+C:\CMPE2800\Socket_LAB\Socket_LAB\bin\Debug\Socket_LAB.pdb
+C:\CMPE2800\Socket_LAB\Socket_LAB\bin\Debug\CMPE2800_SocketGuess_Frames.dll
+C:\CMPE2800\Socket_LAB\Socket_LAB\obj\Debug\Socket_LAB.csproj.AssemblyReference.cache
+C:\CMPE2800\Socket_LAB\Socket_LAB\obj\Debug\Socket_LAB.Properties.Resources.resources
+C:\CMPE2800\Socket_LAB\Socket_LAB\obj\Debug\Socket_LAB.csproj.GenerateResource.cache
+C:\CMPE2800\Socket_LAB\Socket_LAB\obj\Debug\Socket_LAB.csproj.CoreCompileInputs.cache
+C:\CMPE2800\Socket_LAB\Socket_LAB\obj\Debug\Socket_LAB.exe
+C:\CMPE2800\Socket_LAB\Socket_LAB\obj\Debug\Socket_LAB.pdb
+C:\CMPE2800\Socket_LAB\Socket_LAB\obj\Debug\Socket_LAB.DialogConnect.resources
